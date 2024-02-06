@@ -1,5 +1,6 @@
 #ifndef BASE32_DECODE_H
 #define BASE32_DECODE_H
+#include <WString.h>
 
 /* base32decode - decode a \0 terminated base32 encoded string.
  *  
